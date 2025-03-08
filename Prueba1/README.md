@@ -1,4 +1,4 @@
 # digitales3
-[MIguelangelbernal(https://github.com/71456nelsonpradajhontanrodriguez)]
-[jhonatanrodriguez(https://github.com/71456nelsonpradajhontanrodriguez)]
-[nelsonprada(https://github.com/71456nelsonpradajhontanrodriguez)]
+[Miguelangelbernal](https://github.com/71456nelsonpradajhontanrodriguez)  
+[Jhonatanrodriguez](https://github.com/71456nelsonpradajhontanrodriguez)  
+[Nelsonprada](https://github.com/71456nelsonpradajhontanrodriguez)
